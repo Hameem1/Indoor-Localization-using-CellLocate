@@ -1,0 +1,10 @@
+.vscode/
+.idea/
+__pycache__/
+venv/
+BUILD/
+gnss/
+mbed-os/
+ublox-at-cellular-interface-ext/
+ublox-at-cellular-interface-ext/
+ublox-cellular-driver-gen/
