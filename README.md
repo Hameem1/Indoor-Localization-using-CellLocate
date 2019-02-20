@@ -10,7 +10,7 @@ This code is designed to run on the Ublox C027- LISA-U200 board and makes use of
 
 1) `$sudo apt-get install gdb-multiarch gcc-arm-none-eabi build-essential binutils-arm-none-eabi openocd`
 
-2) `sudo apt-get install python2.7 python-pip`
+2) `sudo apt-get install python2.7 python-pip git mercurial`
    
    `pip install pip==8.1.1`
 
